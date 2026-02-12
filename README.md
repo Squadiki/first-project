@@ -38,7 +38,7 @@
 
 - Ссылки:  
 
-    - [Мой репозиторий](https://github.com/Squadiki/first-project) и  
+    - [Мой репозиторий](https://github.com/Squadiki/first-project)  
 
     - [Яндекс.Практикум](https://practicum.yandex.ru/ "Тут только курсы:)")
 
